@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+
+}
+.seconde{
+       margin:3% 50% 3%;
+        display: inline-block;
+  padding: 15px 38px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #999;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.button {
+        margin:3% 50% 3%;
+        display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #999;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #e45529}
+
+.button:active {
+  background-color: #646864;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
